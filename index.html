@@ -52,13 +52,24 @@
               <div class="btn btn-sm"> <a href="https://docs.google.com/uc?authuser=0&id=0By3lTZ0GZpeFZkRnbHhGUUEyT2M&export=download"> <i class="fa fa-file-pdf-o fa-3x"></i> </a> </div>
 
             </div>
-            <h2 class="no-margin">
-              <ul class="nav nav-pills nav-justified">
-                <li class="active"><a data-toggle="pill" href="#student">Student</a></li>
-                <li><a data-toggle="pill" href="#developer">Developer</a></li>
-                <li><a data-toggle="pill" href="#songwriter">Song Writer</a></li>
-              </ul>
-            </h2>
+            <div class="navbar navbar-default no-margin clear-style" role="navigation">
+              <div class="navbar-header">
+                <h2 id="active-pill"> </h2>
+                <button type="button" class="navbar-toggle custom-nav" data-toggle="collapse" data-trigger="focus" data-target="#bs-example-navbar-collapse-1" style="position: static; float: none; margin-bottom: 0px; font-size: 28px; color: #fff; font-family: 'Roboto Slab', serif; border: none; border-bottom: #7E9B72 3px solid;">Student</button>
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>
+              <h2 class="no-margin collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav nav-pills nav-justified head-menu">
+                  <li class="active-pill active"><a data-toggle="pill" href="#student">Student</a></li>
+                  <li><a data-toggle="pill" href="#developer">Developer</a></li>
+                  <li><a data-toggle="pill" href="#songwriter">Song Writer</a></li>
+                </ul>
+              </h2>
+            </div>
             <div class="tab-content padding-top-bottom">
               <div id="student" class="tab-pane fade in active">
                 <h2>3<sup>rd</sup> Year at <span class="highlight"> University of Virginia </span></h2>
@@ -211,6 +222,23 @@
             width:jQuery(this).attr('data-percent')
           },6000);
         });
+      });
+    </script>
+    <script>
+      $('#bs-example-navbar-collapse-1').on('show.bs.collapse', function() {
+        $('.nav-pills').addClass('nav-stacked');
+      });
+      $('#bs-example-navbar-collapse-1').on('hide.bs.collapse', function() {
+        $('.nav-pills').removeClass('nav-stacked');
+      });
+      $(function(){
+        $(".nav-pills li a").click(function(){
+
+          $(".custom-nav").text($(this).text());
+          $(".custom-nav").val($(this).text());
+
+        });
+
       });
     </script>
     <script>

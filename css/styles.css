@@ -47,8 +47,18 @@ body {
   color: #7E9B72;
 }
 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: inherit;
+  color: #7E9B72;
+}
+
 .no-margin {
   margin-bottom: 0px;
+}
+
+.clear-style {
+  border: none;
+  background-color: inherit;
 }
 
 .dark-background {
