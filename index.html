@@ -45,11 +45,11 @@
           <div class="col-sm-8 col-sm-offset-2 padding-top">
             <img class="img-responsive img-circle img-thumbnail center-block img-margin" src="img/profile-sq-med.jpg" alt="Revanth Kolli" />
             <div class="btn-group-sm">
-              <div class="btn btn-sm"> <a href="https://github.com/revanthkolli" target="_blank"> <i class="fa fa-github fa-3x"></i> </a> </div>
-              <div class="btn btn-sm"> <a href="https://www.linkedin.com/pub/revanth-kolli/6b/bb1/3b6" target="_blank"> <i class="fa fa-linkedin fa-3x"></i> </a> </div>
-              <div class="btn btn-sm"> <a href="https://soundcloud.com/revanthkolli" target="_blank"> <i class="fa fa-soundcloud fa-3x"></i> </a> </div>
-              <div class="btn btn-sm"> <a href="mailto:revanthkolli@gmail.com" target="_top"> <i class="fa fa-envelope-o fa-3x"></i> </a> </div>
-              <div class="btn btn-sm"> <a href="https://docs.google.com/uc?authuser=0&id=0By3lTZ0GZpeFZkRnbHhGUUEyT2M&export=download"> <i class="fa fa-file-pdf-o fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="GitHub"> <a href="https://github.com/revanthkolli" target="_blank"> <i class="fa fa-github fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="LinkedIn"> <a href="https://www.linkedin.com/pub/revanth-kolli/6b/bb1/3b6" target="_blank"> <i class="fa fa-linkedin fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="SoundCloud"> <a href="https://soundcloud.com/revanthkolli" target="_blank"> <i class="fa fa-soundcloud fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="Email: revanthkolli@gmail.com"> <a href="mailto:revanthkolli@gmail.com" target="_top"> <i class="fa fa-envelope-o fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="Resume"> <a href="https://docs.google.com/uc?authuser=0&id=0By3lTZ0GZpeFZkRnbHhGUUEyT2M&export=download"> <i class="fa fa-file-pdf-o fa-3x"></i> </a> </div>
 
             </div>
             <div class="navbar navbar-default no-margin clear-style" role="navigation">
@@ -107,6 +107,10 @@
           <h1> Experience </h1>
         </header>
         <div class="section-content padding-top-bottom text-center">
+          <h2> Research Assistant at <span class="highlight"> Darden School of Business </span> </h2>
+          <h3> July 2015 - Present </h3>
+          <p> Created a website for the historical <a href="http://news.virginia.edu/content/mr-meads-liberal-arts-seminar-stuff-legend-university-virginia" target="_blank"> Mead Seminar course </a> taught at Darden and UVa at the Undergraduate level for <a href="https://en.wikipedia.org/wiki/Michael_Lenox" target="_blank"> Professor Michael Lenox </a>.</p>
+          <hr>
           <h2> Developer Intern at <span class="highlight"> Center for Open Science </span> </h2>
           <h3> May - August 2015 </h3>
           <p> Added sharing and embedding capabilites to the <a target="_blank" href="https://github.com/CenterForOpenScience/modular-file-renderer"> modular file renderer </a> of the <a target="_blank" href="https://github.com/revanthkolli/osf.io"> Open Science Framework </a> and also fixed various bugs and issues throughout multiple releases.</p>
@@ -169,7 +173,7 @@
                <div class="skillbar-bar" style="background: #6C93B3;"></div>
 	             <div class="skill-bar-percent">Proficient</div>
             </div>
-            <div class="skillbar clearfix " data-percent="65%">
+            <div class="skillbar clearfix " data-percent="70%">
 	             <div class="skillbar-title" style="background: #2b5b84;"><span>Python</span></div>
                <div class="skillbar-bar" style="background: #CDA839;"></div>
 	             <div class="skill-bar-percent">Proficient</div>
@@ -225,6 +229,9 @@
       });
     </script>
     <script>
+    $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
       $('#bs-example-navbar-collapse-1').on('show.bs.collapse', function() {
         $('.nav-pills').addClass('nav-stacked');
       });
