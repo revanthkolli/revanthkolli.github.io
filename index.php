@@ -41,7 +41,7 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Asap' rel='stylesheet' type='text/css'>
   </head>
   <body data-spy="scroll" data-target="#navbar">
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -53,7 +53,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Revanth Kolli</a>
+          <a class="navbar-brand" href="#">REVANTH KOLLI</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
@@ -78,7 +78,7 @@
               <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="GitHub"> <a href="https://github.com/revanthkolli" target="_blank"> <i class="fa fa-github fa-3x"></i> </a> </div>
               <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="LinkedIn"> <a href="https://www.linkedin.com/pub/revanth-kolli/6b/bb1/3b6" target="_blank"> <i class="fa fa-linkedin fa-3x"></i> </a> </div>
               <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="SoundCloud"> <a href="https://soundcloud.com/revanthkolli" target="_blank"> <i class="fa fa-soundcloud fa-3x"></i> </a> </div>
-              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="My Blog - Manasulo Maatalu"> <a href="http://manasulomaatalu.com/" target="_blank"> <i class="fa fa-rss fa-3x"></i> </a> </div>
+              <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="My Blog - Manasulo Maatalu"> <a href="https://manasulomaatalu.com/" target="_blank"> <i class="fa fa-rss fa-3x"></i> </a> </div>
               <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="Email: revanthkolli@gmail.com"> <a href="mailto:revanthkolli@gmail.com" target="_top"> <i class="fa fa-envelope-o fa-3x"></i> </a> </div>
               <div class="btn btn-sm" data-toggle="tooltip" data-placement="bottom" title="Resume"> <a href="https://docs.google.com/uc?id=0By3lTZ0GZpeFN0R2bHBxNkRkV3M&export=download"> <i class="fa fa-file-pdf-o fa-3x"></i> </a> </div>
 
@@ -103,12 +103,10 @@
             </div>
             <div class="tab-content padding-top-bottom">
               <div id="student" class="tab-pane fade in active">
-                <h2>3<sup>rd</sup> Year at <span class="highlight"> University of Virginia </span></h2>
+                <h2>4<sup>rd</sup> Year at <span class="highlight"> University of Virginia </span></h2>
                 <h5> Rodman Scholar, School of Engineering and Applied Sciences <h5>
                 <p class="padding-top-bottom">
-                  Bachelor of Science, <span class="highlight"> Computer Science </span>
-                  <br /> <br/>
-                  Bachelor of Science, <span class="highlight"> Economics Minor</span>
+                  Bachelor of Science, <span class="highlight"> Computer Science & </span><span class="highlight"> Economics Minor</span>
                 </p>
               </div>
               <div id="developer" class="tab-pane fade">
@@ -249,6 +247,46 @@
             <br />
             <span class="highlight"> Worked with: </span> Atom, CodeBlocks, Eclipse, Emacs, Geany, Linux (Ubuntu w/Cinnamon), OS X, Propeller Tool, PyCharm, Rstudio, Vim, VirtualBox/VMWare, Windows, Wordpress
           </p>
+        </div>
+      </div>
+    </section>
+    <a href="contact" class="anchor"> </a>
+-    <section id="contact" class="dark-background padding-top-bottom">
+-      <div id="container" class="text-center">
+-        <header class="section-header">
+-          <h1> Contact Me </h1>
+-        </header>
+-        <div class="section-content padding-top-bottom text-center">
+-          <form role="form" method="post" action="index.php#contact" class="padding-top-bottom" >
+-            <div class="row control-group">
+-              <div class="form-group col-xs-12 floating-label-form-group controls">
+-                <input type="text" class="form-control text-center" placeholder="Name" name="name" id="name" required="required" data-validation-required-message="Please enter your name." aria-invalid="false">
+-                <p class="help-block text-danger"> </p>
+-              </div>
+            </div>
+            <div class="row control-group">
+-              <div class="form-group col-xs-12 floating-label-form-group controls">
+-                <input type="email" class="form-control text-center" placeholder="Email" name="email" id="email" required="required" data-validation-required-message="Please enter your email address." aria-invalid="false">
+-                <p class="help-block text-danger"> </p>
+-              </div>
+            </div>
+            <div class="row control-group">
+-              <div class="form-group col-xs-12 floating-label-form-group controls">
+-                <textarea class="form-control text-center" placeholder="Message" name="message" id="message" required="required" data-validation-required-message="Please enter your name." aria-invalid="false"></textarea>
+-                <p class="help-block text-danger"> </p>
+-              </div>
+            </div>
+            <div class="row control-group padding-top-bottom">
+-                <div class="form-group col-xs-12 floating-label-form-group controls">
+-                  <input type="submit" name="submit" id="submit" class="btn btn-primary btn-lg" value="Send Email" />
+-                </div>
+            </div>
+            <div class="row control-group">
+-              <div class="form-group col-xs-12 gloating-label-form-group controls">
+-                <?php echo $result; ?>
+-              </div>
+            </div>
+          </form>
         </div>
       </div>
     </section>
