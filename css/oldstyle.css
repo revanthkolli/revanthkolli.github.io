@@ -1,0 +1,313 @@
+body {
+  overflow-x: hidden;
+}
+
+.bg {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(255,255,255,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(45deg, rgba(255,255,255,0.2) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.2) 75%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 0), rgb(37, 117, 143);
+  background: -moz-linear-gradient(45deg, rgba(255,255,255,0.2) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.2) 75%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 0), rgb(37, 117, 143);
+  background: linear-gradient(45deg, rgba(255,255,255,0.2) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 50%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.2) 75%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 0), rgb(37, 117, 143);
+  background-position: auto auto;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 50px 50px;
+  background-size: 50px 50px;
+  background-attachment: fixed;
+}
+
+.bg2 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgba(255,255,255,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(60deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), -webkit-linear-gradient(-60deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), -webkit-linear-gradient(60deg, #3dcced 0, #3dcced 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #3dcced 88%, #3dcced 100%), -webkit-linear-gradient(-60deg, #3dcced 0, #3dcced 12%, hsla(0, 0%, 0%, 0) 12%, rgba(0,0,0,0) 87%, #3dcced 87%, #3dcced 100%), -webkit-linear-gradient(30deg, #2daece 0, #2daece 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, #2daece 75%, #2daece 100%), -webkit-linear-gradient(30deg, #2daece 0, #2daece 25%, rgba(0, 0, 0, 0) 25%, rgba(0,0,0,0) 75%, #34aed3 75%, #3dcced 75%, #2daece 75%, #2daece 100%), #25758F;
+  background: -moz-linear-gradient(30deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), -moz-linear-gradient(150deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), -moz-linear-gradient(30deg, #3dcced 0, #3dcced 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #3dcced 88%, #3dcced 100%), -moz-linear-gradient(150deg, #3dcced 0, #3dcced 12%, hsla(0, 0%, 0%, 0) 12%, rgba(0,0,0,0) 87%, #3dcced 87%, #3dcced 100%), -moz-linear-gradient(60deg, #2daece 0, #2daece 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, #2daece 75%, #2daece 100%), -moz-linear-gradient(60deg, #2daece 0, #2daece 25%, rgba(0, 0, 0, 0) 25%, rgba(0,0,0,0) 75%, #34aed3 75%, #3dcced 75%, #2daece 75%, #2daece 100%), #25758F;
+  background: linear-gradient(30deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), linear-gradient(150deg, #5ac5dd 0, #5ac5dd 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #5ac5dd 88%, #5ac5dd 100%), linear-gradient(30deg, #3dcced 0, #3dcced 12%, rgba(0,0,0,0) 12%, rgba(0,0,0,0) 87%, #3dcced 88%, #3dcced 100%), linear-gradient(150deg, #3dcced 0, #3dcced 12%, hsla(0, 0%, 0%, 0) 12%, rgba(0,0,0,0) 87%, #3dcced 87%, #3dcced 100%), linear-gradient(60deg, #2daece 0, #2daece 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, #2daece 75%, #2daece 100%), linear-gradient(60deg, #2daece 0, #2daece 25%, rgba(0, 0, 0, 0) 25%, rgba(0,0,0,0) 75%, #34aed3 75%, #3dcced 75%, #2daece 75%, #2daece 100%), #25758F;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 80px 140px;
+  background-size: 80px 140px;
+  background-attachment: fixed;
+}
+
+.bg3 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(-45deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), -webkit-linear-gradient(-135deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), -webkit-linear-gradient(-225deg, #a9ccd6 0, #a9ccd6 25%, rgba(169,204,214,0) 25%, rgba(0,0,0,0) 100%), -webkit-linear-gradient(45deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), #25758F;
+  background: -moz-linear-gradient(135deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), -moz-linear-gradient(225deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), -moz-linear-gradient(315deg, #a9ccd6 0, #a9ccd6 25%, rgba(169,204,214,0) 25%, rgba(0,0,0,0) 100%), -moz-linear-gradient(45deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), #25758F;
+  background: linear-gradient(135deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), linear-gradient(225deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), linear-gradient(315deg, #a9ccd6 0, #a9ccd6 25%, rgba(169,204,214,0) 25%, rgba(0,0,0,0) 100%), linear-gradient(45deg, #a9ccd6 0, #a9ccd6 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 100%), #25758F;
+  background-position: -50px 0, -50px 0, 0 0, 0 0;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 100px 100px;
+  background-size: 100px 100px;
+  background-attachment: fixed;
+}
+
+.bg4 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 0.5px/normal Arial, Helvetica, sans-serif;
+  color: rgba(255,255,255,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(135deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), -webkit-linear-gradient(45deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), #25758F;
+  background: -moz-linear-gradient(-45deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), -moz-linear-gradient(45deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), #25758F;
+  background: linear-gradient(-45deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), linear-gradient(45deg, rgba(0,0,0,0) 25%, rgba(255,255,255,0.2) 25%, rgba(255,255,255,0.2) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgba(255,255,255,0.2) 75%), #25758F;
+  background-position: auto auto;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 200em 200em;
+  background-size: 200em 200em;
+  background-attachment: fixed;
+}
+
+/* Entire navbar */
+.navbar {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #fff;
+  border-bottom: none;
+  margin-bottom: 0px;
+}
+
+/* Title */
+.navbar-inverse .navbar-brand {
+  font-size: 28px;
+  font-family: 'Asap', sans-serif;
+  color: #25758F;
+  background-color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:active, .navbar-inverse .navbar-brand:focus {
+  font-size: 28px;
+  font-family: 'Asap', sans-serif;
+  color: #25758F;
+  background-color: #fff;
+}
+
+/* Mobile Menu Toggle */
+.navbar-inverse .navbar-toggle {
+  border-color: #25758F;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:active, .navbar-inverse .navbar-toggle:focus {
+  background-color: #25758F;
+}
+
+/* Mobile Menu Toggle Icon Bar */
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: #25758F;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar, .navbar-inverse .navbar-toggle:active .icon-bar, .navbar-inverse .navbar-toggle:focus .icon-bar {
+  background-color: #fff;
+}
+
+/* Highlighted Menu Item */
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+  background-color: #fff;
+  color: #25758F;
+}
+
+/* Menu Bar Links */
+.navbar-inverse .navbar-nav > li > a {
+  font-size: 20px;
+  font-family: 'Asap', sans-serif;
+  color: #7d7d7d;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+  font-size: 20px;
+  font-family: 'Asap', sans-serif;
+  color: #25758F;
+}
+
+/* Section */
+section {
+  min-height: 100vh;
+}
+
+/**
+ * iPad with portrait orientation.
+ */
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
+  section {
+    min-height: 1024px;
+  }
+}
+
+/**
+ * iPad with landscape orientation.
+ */
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape){
+  section {
+    min-height: 768px;
+  }
+}
+
+/**
+ * iPhone 5
+ * You can also target devices with aspect ratio.
+ */
+@media screen and (device-aspect-ratio: 40/71) {
+  section {
+    min-height: 568px;
+  }
+}
+
+section .section-content {
+  padding-top: 25px;
+  text-align: center;
+  max-width: 1140px;
+  min-width: 100vw;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+}
+
+section .section-content .container {
+  max-width: 800px;
+}
+
+section .section-content .container h1 {
+  font-family: 'Asap', sans-serif;
+  color: #7d7d7d;
+  font-size: 40px;
+}
+
+section .section-content .container h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+section .section-content h4 {
+  color: #25758F;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: normal;
+}
+
+section a {
+  color: #E5B135;
+}
+
+section a:hover {
+  text-decoration: none;
+}
+
+section a:focus, section a:active {
+  text-decoration: none;
+  #25758F;
+}
+
+section .btn:focus, section .btn:active {
+  outline: none;
+  box-shadow: none;
+}
+
+h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #7d7d7d;
+  line-height: normal;
+}
+
+hr {
+  border: none;
+}
+
+.hr {
+  background-color: transparent;
+  height: 93px;
+  width: 100vw;
+  /*border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  box-shadow: inset 0 0 5px #000, inset 3px 0 5px #25758F, inset -3px 0 5px #25758F;
+  -webkit-box-shadow: inset 0 0 5px #000, inset 3px 0 5px #25758F, inset -3px 0 5px #25758F;
+  -moz-box-shadow:    inset 0 0 5px #000, inset 3px 0 5px #25758F, inset -3px 0 5px #25758F;*/
+}
+
+.img-height {
+  max-height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+highlight {
+  color: #25758F;
+  /*font-weight: bold;*/
+}
+
+antihighlight {
+  color: #7d7d7d;
+}
+
+.fa {
+  /*text-shadow: -3px -3px 1px #DCCFB0;*/
+}
+
+.padding {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.swiper-container-mini {
+  max-width: 800px;
+  height: 300px;
+}
+
+.swiper-container-full {
+  max-width: 800px;
+  height: 680px;
+}
+
+.swiper-slide h2, h3 {
+  color: #25758F;
+}
+
+.swiper-pagination-bullet {
+  background: #25758F;
+}
+
+footer {
+  width: 100vw;
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+}
