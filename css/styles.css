@@ -25,7 +25,7 @@ p {
 }
 
 a {
-  color: #E5B135;
+  color: #C28F15;
 }
 
 a:hover, a:focus {
@@ -67,7 +67,7 @@ a:hover, a:focus {
   position: fixed; 
   top: 0px;
   left: 0px;
-  width: 375px;
+  width: 320px;
   height: 100vh;
   background-image: url('bg.jpg');
   background-repeat: no-repeat;
@@ -86,7 +86,7 @@ a:hover, a:focus {
   top: 0px;
   left: 0px;
   padding: 15px;
-  width: 375px;
+  width: 320px;
   height: calc(100vh - 138px);
   background-color: rgba(0,0,0,.7);
   color: #fff;
@@ -134,6 +134,11 @@ a:hover, a:focus {
   font-size: 30px;
   padding-left: 5px;
   padding-right: 5px;
+  color: #FFF;
+}
+
+#sidebar #links a:hover .fa {
+  color: #25758F;
 }
 
 #contact {
@@ -141,7 +146,7 @@ a:hover, a:focus {
   bottom: 0px;
   left: 0px;
   padding: 15px;
-  width: 375px;
+  width: 320px;
   background-color: rgba(0,0,0,.7);
   text-align: center;
   color: #fff;
@@ -161,8 +166,8 @@ a:hover, a:focus {
 }
 
 .feeds {
-  left: 375px;
-  width: calc(100vw - 375px);
+  left: 320px;
+  width: calc(100vw - 320px);
 }
 
 .feeds-extended {
@@ -203,11 +208,11 @@ a:hover, a:focus {
 
 #feeds .card .shade {
   height: 300px;
-  background-color: rgba(0,0,0,.4);
+  background-color: rgba(0, 21, 27,.4);
 }
 
 #feeds .card:hover .shade {
-  background-color: rgba(0,0,0,.7);
+  background-color: rgba(0, 21, 27,.7);
   -webkit-transition: background-color .5s; /* Safari */
   transition: background-color .5s;
   transition-timing-function: ease;
@@ -229,9 +234,9 @@ a:hover, a:focus {
 #feeds .card-info {
   padding-top: 30px;
   padding-bottom: 30px;
-  box-shadow: inset 0px 0px 2px 1px #000;
-  -moz-box-shadow: inset 0px 0px 2px 1px #000;
-  -webkit-box-shadow: inset 0px 0px 2px 1px #000;
+  box-shadow: inset 0px 0px 12px 1px rgba(0,0,0,.7);
+  -moz-box-shadow: inset 0px 0px 12px 1px rgba(0,0,0,.7);
+  -webkit-box-shadow: inset 0px 0px 12px 1px rgba(0,0,0,.7);
   display: none;
   line-height: normal;
 }

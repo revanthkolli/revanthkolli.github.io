@@ -4,10 +4,11 @@
         <meta charset="utf-8">
         <title>Revanth Kolli</title>
         <meta name="keywords" content="Revanth, Revanth Kolli, Kolli, revanthkolli">
-        <meta name="description" content="Revanth Kolli's Professional Website">
+        <meta name="description" content="Revanth Kolli is a developer, blogger, amateur songwriter and film enthusiast.">
         <meta name="author" content="Revanth Kolli">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="img/favicon.ico" />
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css">
         <link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
@@ -49,7 +50,7 @@
                 <h3> CURRENTLY </h3>
                 <h4> Finishing BS in Computer Science at the <a href="http://engineering.virginia.edu/" target="_blank">University of Virginia</a> <span class="location">Charlottesville, VA </span> </h4>
                 <h4> A <a href="http://seas.virginia.edu/students/rodmans/" target="_blank">Rodman Scholar</a> - Top 5% of UVa Engineering Class of '17 </h4>
-                <h4> A Lead Developer and Research Assistant at <a href="http://meadseminar.com/" target="_blank">MeadSeminar.com</a> <span class="location"> Darden School of Business </span></h4>
+                <h4> A Lead Developer and Research Assistant at <a href="http://meadseminar.com/" target="_blank">Mead Seminar</a> <span class="location"> Darden School of Business </span></h4>
                 <h4> Blogging about South Indian cinema at <a href="https://manasulomaatalu.com/" target="_blank">Manasulo Maatalu</a></h4>
             </div>
             <div id="previously">
@@ -135,17 +136,17 @@
 
             function checkMobile() {
                 if (window.mobilecheck()) {
-                    toggleSidebar();
+                    toggleSidebar(true);
                 }
             }
 
-            function toggleSidebar() {
-                if (window.mobilecheck()) {
+            function toggleSidebar(mobile) {
+                if (window.mobilecheck() || mobile) {
                     if ($('#sidebar').css('left') == "0px") {
-                        $("#sidebar-bg").animate({'left': "-323px"}, 500);
-                        $("#sidebar").animate({'left': "-323px"}, 500);
-                        $("#contact").animate({'left': "-323px"}, 500);
-                        $("#feeds").switchClass('feeds', 'feeds-extended', 500);
+                        $("#sidebar-bg").animate({'left': "-268px"}, 500);
+                        $("#sidebar").animate({'left': "-268px"}, 500);
+                        $("#contact").animate({'left': "-268px"}, 500);
+                        $("#feeds").switchClass('feeds', 'feeds-extended', 0);
                     } else {
                         $("#sidebar-bg").animate({'left': "0px"}, 500);
                         $("#sidebar").animate({'left': "0px"}, 500);
@@ -154,9 +155,9 @@
                     }
                 } else {
                     if ($('#sidebar').css('left') == "0px") {
-                        $("#sidebar-bg").animate({'left': "-323px"}, 500);
-                        $("#sidebar").animate({'left': "-323px"}, 500);
-                        $("#contact").animate({'left': "-323px"}, 500);
+                        $("#sidebar-bg").animate({'left': "-268px"}, 500);
+                        $("#sidebar").animate({'left': "-268px"}, 500);
+                        $("#contact").animate({'left': "-268px"}, 500);
                         $("#feeds").switchClass('feeds', 'feeds-extended', 500);
                     } else {
                         $("#sidebar-bg").animate({'left': "0px"}, 500);
