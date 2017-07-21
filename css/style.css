@@ -130,6 +130,15 @@ body {
     margin-right: 5px;
 }
 
-#intro {
-    /* background-color: #FFBDAA; */
+/* Mobile */
+@media (max-width: 699px) {  
+    #title {
+        left: auto;
+        right: auto;
+        width: 100vw;
+    }
+
+    .card {
+        width: calc(100% - 50px);
+    }
 }
