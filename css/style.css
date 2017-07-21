@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans:300,700|Raleway');
+
+/* Colors */
+/* Primary: 28546C 40, 84, 108 */
+/* Secondary: AA5239 170, 82, 57 */
+/* Secondary Lightest: FFBDAA 255, 189, 170 */
+/* Alt: AA8B39 170, 139, 57 */
+
+body {
+    margin-top: 105px;
+    background-color: #363636;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23aa5239' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    text-align: center;
+    color: #FFF;
+}
+
+#title {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 0px;
+    background-color: #FFF;
+    box-shadow: 0 0 4px 2px #000;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold; 
+    font-size: 42px; 
+    color: #363636;
+    z-index: 1000;
+}
+
+#title .highlight {
+    color: #28546C;
+}
+
+.card {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: #FFF;
+    border-radius: 2px;
+    box-shadow: 0 0 4px 2px #222;
+    color: #363636;
+}
+
+.card .info {
+    margin: 0px 0px 15px 0px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+.card .title {
+    margin: 0px 0px 0px 0px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 27px;
+}
+
+.card .poster {
+    width: calc(100% + 30px);
+    height: 300px;
+    margin: 15px 0px 15px -15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+.card .subtitle {
+    margin: 5px 0px 0px 0px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+.card .description {
+    margin: 15px 0px 0px 0px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+.card .description .break {
+    height: 10px;
+}
+
+.card .tags {
+    margin: 15px 0px 25px 0px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+.card .tags .tag {
+    display: inline-table;
+    padding: 5px 7px;
+    margin-top: 5px;
+    background-color: rgba(40, 84, 108, .5);
+    border: 1px solid rgb(40, 84, 108);
+    border-radius: 2px;
+    cursor: context-menu;
+}
+
+.card hr {
+    margin: 15px 0px 15px 0px;
+}
+
+.card .link {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.card .link a {
+    text-decoration: none;
+    color: #AA8B39;
+}
+
+.card .link a:hover, .card .link a:visited:hover {
+    color: #28546C;   
+}
+
+.card .link a:visited {
+    color: #AA5239;
+}
+
+.card .fa {
+    margin-right: 5px;
+}
+
+#intro {
+    /* background-color: #FFBDAA; */
+}
