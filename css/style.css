@@ -103,6 +103,31 @@ body {
     cursor: context-menu;
 }
 
+.card .tags .tag.framework {
+    background-color: rgba(50, 56, 117, .5);
+    border: 1px solid rgb(50, 56, 117);
+}
+
+.card .tags .tag.language {
+    background-color: rgba(40, 120, 77, .5);
+    border: 1px solid rgb(40, 120, 77);
+}
+
+.card .tags .tag.library {
+    background-color: rgba(170, 139, 57, .5);
+    border: 1px solid rgb(170, 139, 57);
+}
+
+.card .tags .tag.tool {
+    background-color: rgba(170, 118, 57, .5);
+    border: 1px solid rgb(170, 118, 57);
+}
+
+.card .tags .tag.database {
+    background-color: rgba(170, 82, 57, .5);
+    border: 1px solid rgb(170, 82, 57);
+}
+
 .card hr {
     margin: 15px 0px 15px 0px;
 }
