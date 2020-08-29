@@ -28,7 +28,7 @@ twitter_username: writtenbyrev
 github_username:  revanthkolli
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
