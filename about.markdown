@@ -16,7 +16,7 @@ But I also love stories. Whether it's a fascinating thriller film, murder myster
 
 # So why this blog?
 
-Occasionally, I mould what I'm learning into my own stories, posts and Telugu* songs. I don't know if that's useful for anyone else, but it helps me refine my thoughts and view of the world. Anything else that comes out of it is just a bonus.
+Occasionally, I refine what I'm learning into reviews, stories, Telugu* songs and other posts. I don't know if that's useful for anyone else, but it helps me refine my thoughts and view of the world. Anything else that comes out of it is just a bonus.
 
 # The rest
 
