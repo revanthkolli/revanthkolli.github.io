@@ -18,8 +18,10 @@ But I also love stories. Whether it's a fascinating thriller film, murder myster
 
 Occasionally, I refine what I'm learning into reviews, stories, Telugu* songs and other posts. I don't know if that's useful for anyone else, but it helps me refine my thoughts and view of the world. Anything else that comes out of it is just a bonus.
 
+You can also find my posts on [Medium](https://medium.com/written-by-revanth).
+
 # The rest
 
-I'm currently in NYC. When I'm not writing or consuming stories, I'm usually playing games with family and friends or learning how to cook new dishes.
+I'm currently a software engineer at Yext in NYC. When I'm not writing or consuming stories, I'm usually playing games with family and friends or learning how to cook new dishes.
 
 \* Telugu is a South Indian language

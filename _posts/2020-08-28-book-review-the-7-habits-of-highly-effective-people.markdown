@@ -7,7 +7,7 @@ tags: book review self-help productivity 3-star
 
 I remember first seeing this book on a manager's bookshelf during a sultry summer workday in 2012. I was still in high school then. My reading pace had already slowed down in the face of academic rigor and the pressure to get into a good college. I remember wondering if the book was only there for display. 
 
-A year later as I was heading off to college, my dad recommended the same book to me. I added it to my list but soon forgot about it amidst the energized and chaotic hustle of my first year.
+A year later as I was heading off to college, my dad recommended the same book to me. I added it to my to-read list but soon forgot about it amidst the energized and chaotic hustle of my first year.
 
 Now, I've finally finished reading *The 7 Habits of Highly Effective People* under circumstances that I couldn't have imagined 8 years ago - stuck indoors while the world is fighting to gain control of a global pandemic.
 
@@ -36,7 +36,7 @@ A 3-star read about creating core habits that can help you be more effective wit
 
 > "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." \- Victor Frankl
 
-I'm grateful to Covey for introducing me to this fascinating quote. Victor Frankl was a psychiatrist who survived the Holocaust. He then went on to become a successful professor. His quote is the most succinct and powerful way of highlighting the importance of self-control to success. His book, *Man's Search for Meaning*, now has a spot in my to-read list.
+I'm grateful to Covey for introducing me to this fascinating quote. Victor Frankl was a psychiatrist who survived the Holocaust. He then went on to become a successful professor. His quote is probably the most succinct and powerful way of highlighting the importance of self-control to success. His book, *Man's Search for Meaning*, now has a spot in my to-read list.
 
 #### Important Becomes Urgent When Ignored
 
