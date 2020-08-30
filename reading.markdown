@@ -14,7 +14,7 @@ permalink: /reading/
 
 # 2020
 1. The Night Swim (3-star)
-1. [The 7 Habits of Highly Effective People]({% post_url 2020-08-28-welcome-to-jekyll %}) (3-star)
+1. [The 7 Habits of Highly Effective People]({% post_url 2020-08-28-book-review-the-7-habits-of-highly-effective-people %}) (3-star)
 1. The Underground Railroad (3-star)
 1. The Martian (1-star)
 1. Artemis (2-star)

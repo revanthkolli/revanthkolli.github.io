@@ -5,11 +5,11 @@ date:   2020-08-28 20:26:33 -0400
 categories: book review self-help productivity 3-star
 ---
 
-I remember first seeing this book on a manager's bookshelf during a sultry summer workday in 2012. I was still in high school then. My reading pace had already slowed down in the face of academic rigor and the pressure to get into a good college. I remember wondering if it was only there for display. 
+I remember first seeing this book on a manager's bookshelf during a sultry summer workday in 2012. I was still in high school then. My reading pace had already slowed down in the face of academic rigor and the pressure to get into a good college. I remember wondering if the book was only there for display. 
 
 A year later as I was heading off to college, my dad recommended the same book to me. I added it to my list but soon forgot about it amidst the energized and chaotic hustle of my first year.
 
-Now, I've finally finished reading *The 7 Habits of Highly Effective People* under circumstances that I couldn't have imagined 8 years ago - stuck indoors while every nation is fighting to gain control of a global pandemic.
+Now, I've finally finished reading *The 7 Habits of Highly Effective People* under circumstances that I couldn't have imagined 8 years ago - stuck indoors while the world is fighting to gain control of a global pandemic.
 
 # TLDR
 

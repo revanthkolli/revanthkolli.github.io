@@ -1,0 +1,11 @@
+.site-footer {
+    background-color: #161616;
+}
+
+.site-footer, .site-footer p, .site-footer li {
+    color: #e6e6e6;
+}
+
+.site-footer a {
+    color: #0096cf;
+}
