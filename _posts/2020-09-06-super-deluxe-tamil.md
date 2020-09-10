@@ -10,11 +10,11 @@ To say *Super Deluxe* stands out amidst the mostly homogeneous backdrop of India
 In retrospect, none of this is really surprising. Thiagarajan Kumarraraja is no stranger to controversial films. His first attempt at directing a feature film, Aaranya Kaandam, ran into many issues with the Chennai censor board in 2011. The film then went on to win national and regional awards and became a cult hit. 8 years later, his second directorial feature, *Super Deluxe*, gave Kummarraraja something new along with the accolades: commercial success. 
 
 I knew none of this before watching the film. I had only heard of *Super Deluxe* in passing as a movie worth checking out. Thus, last week when I sat down to watch the movie virtually with a Tamil-speaking friend, I was blissfully unaware of the shocking, humorous and outright absurd three-hour adventure that lay ahead.
+<br/>
 
-<br>
 ---
-<br>
 
+<br/>
 # Humans Are Divisive And Ignorant
 If you want to only focus on one of the many topics that *Super Deluxe* touches on, it would be this one. Kummarraraja's film depicts characters in various situations facing conflicts because of the human tendency to separate "us" from "them". The unfamiliar, whether that's through caste, religion or something simpler like gender identity, is often seen as dangerous or not worthy of inclusion. 
 
@@ -43,9 +43,9 @@ A smaller theme throughout *Super Deluxe* is the importance that people tend to 
 
 #### Faith is a Personal Journey
 Faith is another sub theme explored by the film. Leela's son's father, Arputham, goes through a crisis of faith and the film toys with this concept throughout its progression. While I felt some of these scenes were the weakest links in the movie, this theme is also interesting because it is open-ended. Like Arputham, many people struggle with faith throughout their lives and Kummarraraja refuses to make a statement here. It seems his goal was to get the audience to question their own faith and arrive at their own conclusions on what they believe.
+<br/>
 
-<br>
 ---
-<br>
 
+<br/>
 It's really fun to watch the four stories of *Super Deluxe* unfold, but the film is especially memorable for it's thought provoking themes and attempts to get the audience to engage in its philosophy. While it is kind of long, I highly recommend giving it a watch as long as you're willing to approach the concepts with an open mind and not easily be offended by it's audacity. If you aren't, I think it's still worth a watch for the stories. And who knows, you might even leave the film feeling a little out of this world.
