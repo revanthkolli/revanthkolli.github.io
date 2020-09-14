@@ -20,8 +20,8 @@
 
 title: Written by Revanth
 email: revanthkolli@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Writer and software engineer, but not necessarily in that order.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Writer and software engineer, but not necessarily in that order.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "writtenbyrevanth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: writtenbyrev

@@ -1,0 +1,272 @@
+body {
+    margin: 0px auto;
+    width: 800px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #1e1e1e;
+}
+
+/* Header */
+
+header a {
+    text-decoration: none;
+}
+
+.header-link {
+    padding: 50px;
+    text-align: center;
+}
+
+.header-link img {
+    padding: 15px 0px 0px 0px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.header-link .header-title {
+    padding: 15px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 42px;
+    color: #1e1e1e;
+}
+
+/* Page */
+
+.page-content {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.page-content ul.post-list {
+    margin: 0px;
+    padding: 0px;
+}
+
+.page-content .post-list li {
+    list-style: none;
+    margin: 0px 0px 50px 0px;
+    font-family: 'Playfair Display', serif;
+}
+
+.page-content h3 {
+    margin: 0px;
+    font-size: 32px;
+}
+
+.page-content h3 a {
+    text-decoration: none;
+    color: #1e1e1e;
+}
+
+.page-content .post-meta {
+    padding: 7.5px 0px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Post */
+h1.post-title {
+    margin: 0px 0px 15px 0px;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+}
+
+.post-content h1 {
+    margin: 0px;
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+}
+
+.post-content h2 {
+    margin: 0px;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+}
+
+.post-content h3 {
+    margin: 0px;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+}
+
+.post-content a {
+    text-decoration: underline;
+}
+
+.post-content blockquote {
+    font-family: 'Handlee', cursive;
+    font-size: 28px;
+}
+
+/* Footer */
+
+footer {
+    margin: 50px 0px;
+    width: 800px;
+}
+
+footer a {
+    padding: 7.5px;
+    background-color: #e6e6e6;
+    text-decoration: none;
+    color: #1e1e1e;
+}
+
+footer .social-links {
+    margin: 15px 0px;
+}
+
+footer form {
+    border: none !important;
+}
+
+footer form .form-description {
+    margin: 0px;
+    padding: 15px 0px;
+}
+
+footer form input {
+    background-color: #e6e6e6;
+    margin: 7.5px 0px;
+    padding: 7.5px 15px;
+    border: none;    
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer form input:focus {
+    border: none;
+    outline: none;
+}
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    body {
+        margin: 0px auto;
+        width: 300px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #1e1e1e;
+    }
+
+    .header-link .header-title {
+        padding: 15px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 33px;
+        color: #1e1e1e;
+    }    
+
+    .page-content h3 {
+        margin: 0px;
+        font-size: 24px;
+    }
+
+    h1.post-title {
+        margin: 0px 0px 15px 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 24px;
+    }
+
+    .post-content h1 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 21px;
+    }
+
+    .post-content h2 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 18px;
+    }
+
+    .post-content h3 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 17px;
+    }
+
+    .post-content blockquote {
+        font-family: 'Handlee', cursive;
+        font-size: 18px;
+    }
+
+    footer {
+        margin: 50px 0px;
+        width: 300px;
+    }
+
+    footer div {
+        line-height: 3;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    body {
+        margin: 0px auto;
+        width: 200px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #1e1e1e;
+    }
+
+    .header-link .header-title {
+        padding: 15px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 21px;
+        color: #1e1e1e;
+    }    
+
+    .page-content h3 {
+        margin: 0px;
+        font-size: 24px;
+    }
+
+    h1.post-title {
+        margin: 0px 0px 15px 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 24px;
+    }
+
+    .post-content h1 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 21px;
+    }
+
+    .post-content h2 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 18px;
+    }
+
+    .post-content h3 {
+        margin: 0px;
+        font-family: 'Playfair Display', serif;
+        font-size: 17px;
+    }
+
+    .post-content blockquote {
+        font-family: 'Handlee', cursive;
+        font-size: 18px;
+    }
+
+    footer {
+        margin: 50px 0px;
+        width: 200px;
+    }
+
+    footer form input {
+        background-color: #e6e6e6;
+        margin: 7.5px 0px;
+        padding: 7.5px 15px;
+        border: none;    
+        font-size: 18px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    footer div {
+        line-height: 3;
+    }
+}
