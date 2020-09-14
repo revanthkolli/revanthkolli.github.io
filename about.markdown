@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Revanth Kolli.
+Hi, I'm Revanth Kolli!
 
 # I'm a writer. 
 
@@ -18,9 +18,9 @@ But I love stories as much as I love developing software. Whether it’s a fasci
 
 # So why this blog?
 
-Occasionally, I explore what I'm learning into reviews, stories, Telugu* songs and other posts. Writing helps me refine my own thoughts and views about the world. 
+Occasionally, I explore what I'm learning by writing reviews, stories, Telugu* songs and other posts. Writing helps me refine my own thoughts and views about the world. 
 
-Since learning and exploration are the focus of this blog, I won't be taking an audience into consideration. This means that my posts can vary in quality, clarity and breadth of topic. If you find anything I write useful, that's great! Just don't go expecting that to happen routinely because that's not the primary goal.
+Since learning and exploration is the focus of this blog, I won't be taking an audience into consideration. This means that my posts can vary in quality, clarity and breadth of topic. If you find anything I write useful, that's great! Just don't go expecting that to happen routinely because that's not the objective.
 
 
 # The rest
