@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Revanth Kolli!
+Hi! I'm Revanth Kolli.
 
 # I'm a writer. 
 
