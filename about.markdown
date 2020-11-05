@@ -25,10 +25,11 @@ Since learning and exploration is the focus of this blog, I won't be taking an a
 
 # The rest
 
-I'm currently a software engineer at Yext in NYC helping global companies take control of their digital brand experience.
+I'm currently a software engineer at Yext\*\* in NYC helping global companies take control of their digital brand experience.
 
 I was previously at UVA, Capital One, Center for Open Science and SWIFT.
 
 When I'm not writing or consuming code or stories, I'm usually playing games with family and friends and learning how to cook new dishes.
 
 \* Telugu is a South Indian language spoken in Andhra Pradesh and Telangana
+\*\* All opinions explored in this blog are my own and do not reflect the opinions of my current or any former employers.
