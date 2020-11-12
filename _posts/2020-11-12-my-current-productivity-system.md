@@ -17,7 +17,7 @@ I'm going to try to explain my system below. This is by no means a suggestion th
 
 An inbox is important for any productivity setup and is found in many methods, like GTD. The main idea is to be able to quickly add things that you know you want to come back to later. In my implementation, the inbox is mainly for anything that doesn't have a due date. If I can't decide if it has a due date yet, it goes into the inbox. 
 
-I routinely check my inbox to see if there is anything I can work on there or if I can add a due date. Being able to see how long an item has been stuck in my inbox is also important. If something is there too long, it's either because it's really not that important to me or because I've neglected some part of my life. If it's the former I can just archive the item without thinking about it again. If it's the former, I can revisit it and see why I haven't been able to get to that particular task. Often the solution there is to reframe how I approach that item of break it down into smaller, more actionable pieces.
+I routinely check my inbox to see if there is anything I can work on there or if I can add a due date. Being able to see how long an item has been stuck in my inbox is also important. If something is there too long, it's either because it's really not that important to me or because I've neglected some part of my life. If it's the former I can just archive the item without thinking about it again. If it's the latter, I can revisit it and see why I haven't been able to get to that particular task. Often the solution there is to reframe how I approach that item of break it down into smaller, more actionable pieces.
 
 ## Schedule
 
