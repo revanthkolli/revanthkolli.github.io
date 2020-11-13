@@ -25,7 +25,7 @@ A calendar is a surprisingly tricky thing in a productivity setup. Calendars exc
 
 ## Focus
 
-My Focus page is what I look at most often throughout a day. It's a subset of my tasks that I have decided are what are important for that particular day. Every morning, I go through my Inbox to check for important tasks that might or might not be urgent and go through my Schedule to look for tasks that are due soon. Looking at both gives me a wholistic view of my tasks, making it easy to make smart decisions on what to work on that day. 
+My Focus page is what I look at most often throughout a day. It's a subset of my tasks that I have decided are what are important for that particular day. Every morning, I go through my Inbox to check for important tasks that might or might not be urgent and go through my Schedule to look for tasks that are due soon. Looking at both gives me a holistic view of my tasks, making it easy to make smart decisions on what to work on that day. 
 
 Anyone familiar with the Eisenhower Matrix will understand the importance of this part of the system. The Eisenhower Matrix says that there are two attributes that should be considered when prioritizing tasks: Importance and Urgency.
 
