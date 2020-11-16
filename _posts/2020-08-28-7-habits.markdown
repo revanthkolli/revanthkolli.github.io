@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Book Review: The 7 Habits of Highly Effective People"
+title:  "Book Analysis: The 7 Habits of Highly Effective People"
 date:   2020-08-28 20:26:33 -0400
-tags: book review self-help productivity 3-star
+tags: book analysis self-help productivity 3-star
 ---
 
 I remember first seeing this book on a manager’s bookshelf during a sultry summer workday in 2012. I was still in high school then. My reading pace had already slowed down in the face of academic rigor and the pressure to get into a good college. I remember wondering if the book was only there for display.
@@ -10,9 +10,6 @@ I remember first seeing this book on a manager’s bookshelf during a sultry sum
 A year later as I was heading off to college, my dad recommended the same book to me. I added it to my to-read list but soon forgot about it amidst the energized and chaotic hustle of my first year.
 
 Now, I’ve finally finished reading The 7 Habits of Highly Effective People﻿ under circumstances that I couldn’t have imagined 8 years ago - stuck indoors while the world is fighting to gain control of a global pandemic.
-
-# TLDR
-A 3-star﻿ read about creating core habits that can help you be more effective with independent and interdependent conflicts.
 
 # The Habits
 ## Independence
