@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Movie Review: Super Deluxe (Tamil)"
+title:  "Movie Analysis: Super Deluxe (Tamil)"
 date:   2020-09-06 08:00:00 -0400
-tags: movie review tamil super deluxe
+tags: movie analysis tamil super deluxe
 ---
 
 To say *Super Deluxe* stands out amidst the mostly homogeneous backdrop of Indian films is an understatement. The film juggles four different genre-blending stories while also providing stark social commentary on a plethora of topics. The opening scenes alone would be enough to enrage or alienate large subsections of a standard Indian audience. And yet, the film maintains an 8.4 of 10 rating with more than 8,000 reviews on IMDB, a respectable feat given it's philosophical tendencies and preachy messages. It's clear that people really connect with this film, despite, or maybe because of its boldness.
