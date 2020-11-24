@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Current Productivity Sytem"
+title:  "My Current Productivity System"
 date:   2020-11-12 08:00:00 -0400
 tags: productivity system tasks events notes to-do habits
 ---
