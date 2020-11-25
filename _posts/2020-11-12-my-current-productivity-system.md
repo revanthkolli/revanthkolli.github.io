@@ -56,7 +56,7 @@ Sub tasks are simple checkbox tasks that are included in tasks that need to be b
 
 Updates are dated comments that I use to keep track of peripheral information for larger tasks. They can detail specific actions I took, what road blocks I came across and how they were cleared or even have a more elaborate explanation on why that task is in Waiting. 
 
-I might do a separate blog post and practices I've picked up that have helped me a lot since I started working as a full-time software engineer, but this is definitely one of those. Typing updates makes it a lot easier to give status updates and also jog my own memory if someone comes weeks or months after I've moved on and asks a specific question about that task. I've even found them helpful when coming across bugs related to those tasks after they were completed.
+I might do a separate blog post on practices I've picked up that have helped me a lot since I started working as a full-time software engineer, but this is definitely one of those. Typing updates makes it a lot easier to give status updates and also jog my own memory if someone comes weeks or months after I've moved on and asks a specific question about that task. I've even found them helpful when coming across bugs related to those tasks after they were completed.
 
 # The Rest
 
